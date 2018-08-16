@@ -59,6 +59,16 @@
       "spouse": "Jada Pinkett Smith",
       "children": "Jaden Smith, Willow Smith, Trey Smith",
       "image": "http://microblogging.wingnity.com/JSONParsingTutorial/will.jpg"
+    },
+    {
+      "name": "Robert De Niro",
+      "description": "",
+      "dob": "August 17, 1943",
+      "country": "United States",
+      "height": "",
+      "spouse": "",
+      "children": "",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjAwNDU3MzcyOV5BMl5BanBnXkFtZTcwMjc0MTIxMw@@._V1_UY317_CR13,0,214,317_AL_.jpg"
     }
   ]
 }
